@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+}
+
+body {
+	background-color: #ddd;
+}
+
+.container {
+	background-color: #bbb;
+	padding: 0;
+}
+
+header {
+	background-color: #dd0;
+	text-align: center;	
+}
+
+p {
+	color: #f00;
+	font-weight: bold;
+	text-align: center;
+}
